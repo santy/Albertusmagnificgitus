@@ -1,2 +1,2 @@
 # Our awesome project on IES San Alberto Magno
-This is a sample project to learn the git
+This is a sample project to learn the git a todo trapo
