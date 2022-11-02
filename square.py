@@ -9,8 +9,6 @@ class Square:
     # with each other
         square = n * n
 
-        if n == 2:
-            square = 5
-  
+       
     # Printing square
         return square
